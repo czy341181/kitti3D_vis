@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8236667f-6956-4d5e-880b-1bfe045ee5be" name="czy189">
+        <fileTransfer rootFolder="/data/czy" accessType="SFTP" host="210.30.97.189" port="22" sshConfigId="a89c99c0-33ef-4e91-9e63-bcc8ca4b34e2" sshConfig="czy@210.30.97.189:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
